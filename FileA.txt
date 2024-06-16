@@ -1,3 +1,1 @@
-This is a File A
-This Is a change to the file
-
+This is a file A.
